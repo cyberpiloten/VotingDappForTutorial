@@ -2,7 +2,7 @@
 pragma solidity ^0.8.7;
 
 import "@openzeppelin/contracts/utils/Address.sol";
-
+//https://youtu.be/7JGvFIkD1Fk?si=nCpJcHWCJVdoo9cG
 contract Voting {
 
 	bool public finished;
